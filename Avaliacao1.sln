@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5 - sequencia1", "5 - seque
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6 - quadradoEAoCubo", "6 - quadradoEAoCubo\6 - quadradoEAoCubo.csproj", "{D9695FD1-1DFA-4D4F-A19E-5D080802A273}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8 - extremamenteBasico", "8 - extremamenteBasico\8 - extremamenteBasico.csproj", "{5A1C64C5-70BF-435C-871C-64EB92EA2489}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{D9695FD1-1DFA-4D4F-A19E-5D080802A273}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D9695FD1-1DFA-4D4F-A19E-5D080802A273}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D9695FD1-1DFA-4D4F-A19E-5D080802A273}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A1C64C5-70BF-435C-871C-64EB92EA2489}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A1C64C5-70BF-435C-871C-64EB92EA2489}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A1C64C5-70BF-435C-871C-64EB92EA2489}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A1C64C5-70BF-435C-871C-64EB92EA2489}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
