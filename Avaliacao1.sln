@@ -27,15 +27,27 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "9 - cachorroQuente", "9 - c
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "z13 - saida3", "z13 - saida3\z13 - saida3.csproj", "{6C796035-BFD2-41D1-A41F-5587FC740EF3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "z11 - feijao", "z11 - feijao\z11 - feijao.csproj", "{76ABEDAB-197E-48F0-BCC5-A3F3C45341C4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "z11 - feijao", "z11 - feijao\z11 - feijao.csproj", "{76ABEDAB-197E-48F0-BCC5-A3F3C45341C4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "z12 - tempoDeDuende", "z12 - tempoDeDuende\z12 - tempoDeDuende.csproj", "{1094AE87-89D1-40EA-8F4B-59BA6CAD76A0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "z12 - tempoDeDuende", "z12 - tempoDeDuende\z12 - tempoDeDuende.csproj", "{1094AE87-89D1-40EA-8F4B-59BA6CAD76A0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "z14 - brinquedosDoPapaiNoel", "z14 - brinquedosDoPapaiNoel\z14 - brinquedosDoPapaiNoel.csproj", "{98DB9FED-9F24-4D4A-9F9F-D10DDF4EB10D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "z14 - brinquedosDoPapaiNoel", "z14 - brinquedosDoPapaiNoel\z14 - brinquedosDoPapaiNoel.csproj", "{98DB9FED-9F24-4D4A-9F9F-D10DDF4EB10D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "z16 - numerosPares", "z16 - numerosPares\z16 - numerosPares.csproj", "{019CF0E8-75C0-4E1A-835D-AB541BF64783}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "z16 - numerosPares", "z16 - numerosPares\z16 - numerosPares.csproj", "{019CF0E8-75C0-4E1A-835D-AB541BF64783}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "z18 - bobConduite", "z18 - bobConduite\z18 - bobConduite.csproj", "{F1808DF1-0F1B-4173-BD4A-CEBC32969040}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "z18 - bobConduite", "z18 - bobConduite\z18 - bobConduite.csproj", "{F1808DF1-0F1B-4173-BD4A-CEBC32969040}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "z19 - haMuitoMuitoTempoAtras", "z19 - haMuitoMuitoTempoAtras\z19 - haMuitoMuitoTempoAtras.csproj", "{A84CE93A-26FD-4451-BD84-9A7447F11AC4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "z20 - fusoHorario", "z20 - fusoHorario\z20 - fusoHorario.csproj", "{547B0026-8E2A-4F30-8D03-B329E75EFA3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "z21 - desafioDeBino", "z21 - desafioDeBino\z21 - desafioDeBino.csproj", "{1C3DF89E-3768-432A-973F-0D27331FBCE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "z22 - saltosOrnamentais", "z22 - saltosOrnamentais\z22 - saltosOrnamentais.csproj", "{70A9AF29-ADC8-451C-8C20-0937A0A72ED0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "z23 - qualTriangulo", "z23 - qualTriangulo\z23 - qualTriangulo.csproj", "{D10A500C-1E87-46D0-97EC-A424EF6D5384}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "z24 - felizNatal", "z24 - felizNatal\z24 - felizNatal.csproj", "{9D2AF80E-2365-4E24-B1E2-442F2EBC2C70}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -111,6 +123,30 @@ Global
 		{F1808DF1-0F1B-4173-BD4A-CEBC32969040}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F1808DF1-0F1B-4173-BD4A-CEBC32969040}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F1808DF1-0F1B-4173-BD4A-CEBC32969040}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A84CE93A-26FD-4451-BD84-9A7447F11AC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A84CE93A-26FD-4451-BD84-9A7447F11AC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A84CE93A-26FD-4451-BD84-9A7447F11AC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A84CE93A-26FD-4451-BD84-9A7447F11AC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{547B0026-8E2A-4F30-8D03-B329E75EFA3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{547B0026-8E2A-4F30-8D03-B329E75EFA3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{547B0026-8E2A-4F30-8D03-B329E75EFA3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{547B0026-8E2A-4F30-8D03-B329E75EFA3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C3DF89E-3768-432A-973F-0D27331FBCE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C3DF89E-3768-432A-973F-0D27331FBCE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C3DF89E-3768-432A-973F-0D27331FBCE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C3DF89E-3768-432A-973F-0D27331FBCE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70A9AF29-ADC8-451C-8C20-0937A0A72ED0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70A9AF29-ADC8-451C-8C20-0937A0A72ED0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70A9AF29-ADC8-451C-8C20-0937A0A72ED0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70A9AF29-ADC8-451C-8C20-0937A0A72ED0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D10A500C-1E87-46D0-97EC-A424EF6D5384}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D10A500C-1E87-46D0-97EC-A424EF6D5384}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D10A500C-1E87-46D0-97EC-A424EF6D5384}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D10A500C-1E87-46D0-97EC-A424EF6D5384}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D2AF80E-2365-4E24-B1E2-442F2EBC2C70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D2AF80E-2365-4E24-B1E2-442F2EBC2C70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D2AF80E-2365-4E24-B1E2-442F2EBC2C70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D2AF80E-2365-4E24-B1E2-442F2EBC2C70}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
